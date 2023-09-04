@@ -5,9 +5,9 @@
 	<h3>🛠 Tech Stack 🛠</h3>
 	<p>✨ Programming languages ✨</p>
 </div>
-
+<div align=center>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/CSharp-239120??style=for-the-badge&logo=CSharp&logoColor=white">      
-
+</div>
 
 
 ### Frontend
