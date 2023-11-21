@@ -1,6 +1,9 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KyuTack%20Github&fontSize=90&animation=fadeIn" />	
 </div>
+
+- contact : ddr1323@gmail.com
+- notion : [김규택](https://witty-spur-fe5.notion.site/Kyu-Tack-Kim-566673175dbb44bf82d7999a68eac04a)
 <div align=center>
 	<h3>🛠 Tech Stack 🛠</h3>
 	<p>✨ Programming languages ✨</p>
@@ -16,7 +19,7 @@
 
 
 ### Backend 
-<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 
 ###  Databases
